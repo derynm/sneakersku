@@ -1,4 +1,4 @@
-# sneakerku
+# sneakersku
 
 Sneakersku e-commerce provides a diverse selection of the latest sneakers with a convenient shopping experience.
 
