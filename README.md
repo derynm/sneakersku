@@ -1,6 +1,6 @@
 # sneakerku
 
-e-commerce Sneakersku offers a variety of latest sneakers with a convenient and secure shopping experience.
+Sneakersku e-commerce provides a diverse selection of the latest sneakers with a convenient shopping experience.
 
 ## Inspiration
 
