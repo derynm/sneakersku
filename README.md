@@ -13,5 +13,5 @@ compass: [compass](https://sepatucompass.com/)
   - Repo: [sneakersku FE Repository](https://github.com/derynm/sneakersku-fe)
   - Deployment: [sneakersku Website](https://sneakersku.derynm.dev/)
 - Backend:
-  - Repo: [sneakersku FE Repository](https://github.com/derynm/sneakersku-fe)
+  - Repo: [sneakersku BE Repository](https://github.com/derynm/sneakersku-fe)
   - Deployment: [sneakersku API](https://sneakersku-api.derynm.dev/)
